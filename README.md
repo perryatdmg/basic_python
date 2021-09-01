@@ -9,7 +9,7 @@
 This project is just a starting template for Python projects.
 
 ## Why use an IDE?
-> The following are examples of debugging Python inside Visual Studio Code:
+> The following are examples of (pytest) debugging Python inside Visual Studio Code:
 
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/000.png)
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/007.png)
