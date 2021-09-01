@@ -8,7 +8,7 @@
 
 This project is just a starting template for Python projects.
 
-![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/Social_Preview.png)
+![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/Basic_Python.png)
 
 ## Why use an IDE?
 > The following are examples of (pytest) debugging Python inside Visual Studio Code:
