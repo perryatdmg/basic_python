@@ -17,4 +17,8 @@ This project is just a starting template for Python projects.
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/002.png)
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/003.png)
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/004.png)
+![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/004.png)
+![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/008.png)
+![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/009.png)
+![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/010.png)
 
