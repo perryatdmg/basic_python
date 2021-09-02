@@ -26,8 +26,7 @@ Here we have your typical Python source code, (as methods) to be unit tested:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/003.png)</br>
 ### In the console/terminal portion of the screen, the actual report from the pytest framework is supplied to the software developer, (in blue):
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/004.png)</br>
-### In this case the unit test was incorrect:
-Also being demonstrated here is a menu of operations that can be conducted easily using the Pytest extension for Visual Studio Code.
+### Here is a menu of operations that can be conducted easily using the Pytest extension for Visual Studio Code.
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/007.png)</br>
 ### Further, the editor portion is now showing no errors:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/008.png)</br>
