@@ -14,7 +14,7 @@ This project is just a starting template for Python projects.
 ## Why use an IDE?
 > The following are examples of (pytest) debugging Python inside Visual Studio Code:
 
-Here we have a typical Python methods to be unit tested:
+Here we have your typical Python source code, (as methods) to be unit tested:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/000.png)</br>
 ### Here we have at least one unit test per method:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/007.png)</br>
