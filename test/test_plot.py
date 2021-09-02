@@ -9,3 +9,4 @@ def test_plot():
     assert standardplot.plot().size()>0
  
 
+test_data()

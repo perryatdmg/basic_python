@@ -8,5 +8,3 @@ def test_increment():
 def test_decrement():
     assert inc_dec.decrement(3) == 2
     
-    
-
