@@ -18,7 +18,7 @@ Here we have your typical Python source code, (as methods) to be unit tested:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/000.png)</br>
 ### Here we have at least one unit test per method:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/007.png)</br>
-### In this case a unit test has indicated that either the method is not functioning as expected, (or perhaps the test case is not correct):
+### In this case a unit test has indicated that a Python method is not returning as expected value, (which is the purpose of writing test cases). In response the Visual Studio Code IDE with the Python extension interacting with the Pytest framework shows us which test case has an issue:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/001.png)</br>
 ### The benefits of using an IDE such as Visual Studio Code are that, (the trained eye) can quickly see which unit tests are reporting a pass, (in green) and which unit tests are indicating an issue, (in red):
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/002.png)</br>
