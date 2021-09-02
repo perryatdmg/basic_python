@@ -28,7 +28,7 @@ Here we have your typical Python source code, (as methods) to be unit tested:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/004.png)</br>
 ### Here is a menu of operations that can be conducted easily using the Pytest extension for Visual Studio Code. Notice that the test case causing the issue was mistaken in the value expected from our Python code, (aka. a value of 4 when it should be 2).
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/007.png)</br>
-### Further, the editor portion is now showing no errors:
+### Once the correction has been made, the IDE updates almost immediately, (no manual running or recompiling or the Python code required by the user). Now, the editor is showing no errors:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/008.png)</br>
 ### With the IDE we can set breakpoints and catch the code at the precise line of source requiring our attention:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/010.png)</br>
