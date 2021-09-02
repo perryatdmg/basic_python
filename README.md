@@ -20,7 +20,7 @@ Here we have your typical Python source code, (as methods) to be unit tested:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/007.png)</br>
 ### In this case a unit test has indicated that either the method is not functioning as expected, (or perhaps the test case is not correct):
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/001.png)</br>
-### The benefits of using an IDE such as Visual Studio Code are that, (the trained eye) can quickly see which unit tests are reporting a pass, (in green) and unit tests are indicating an issue, (in red):
+### The benefits of using an IDE such as Visual Studio Code are that, (the trained eye) can quickly see which unit tests are reporting a pass, (in green) and which unit tests are indicating an issue, (in red):
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/002.png)</br>
 ### Additionally, the editor portion shows the unit test case, (that requires attention) with an additional "red line":
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/003.png)</br>
@@ -30,10 +30,10 @@ Here we have your typical Python source code, (as methods) to be unit tested:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/007.png)</br>
 ### Further, the editor portion is now showing no errors:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/008.png)</br>
-### Further, the console report is now reporting no errors:
-![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/009.png)</br>
 ### With the IDE we can set breakpoints and catch the code at the precise line of source requiring our attention:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/010.png)</br>
 ### Resulting in a fully operational test case suite, (or all green):
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/012.png)</br>
+### Further, the console report is now reporting no errors:
+![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/009.png)</br>
 
