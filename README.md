@@ -20,6 +20,12 @@ This project is just a starting template for Python projects.
     python3 -m venv .venv
     source .venv/bin/activate
 
+## python_essentials with pytest
+> **python_essentials** can be used with the three most popular Python unit test case frameworks but this one is using pytest by default. Therefore, (once you have your environment setup) you should add pytest to your environment:
+
+    pip install -U pytest
+
+
 ## Why use an IDE?
 > The following are examples of (pytest) debugging Python inside Visual Studio Code:
 
