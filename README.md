@@ -11,6 +11,15 @@ This project is just a starting template for Python projects.
 
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/Basic_Python.png)
 
+## python_essentials as a template
+> **python_essentials** is available as template for Python projects on github. 
+## python_essentials setup
+> **python_essentials** is meant to be used inside it's own environment
+
+    sudo apt install python3.8-venv
+    python3 -m venv .venv
+    source .venv/bin/activate
+
 ## Why use an IDE?
 > The following are examples of (pytest) debugging Python inside Visual Studio Code:
 
