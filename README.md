@@ -7,7 +7,8 @@
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)<br/>
 - [Python testing in Visual Studio Code](https://code.visualstudio.com/docs/python/testing)<br/>
 
-This project is just a starting template for Python projects.
+This project is just a starting template for Python projects.</br>
+Python3 is recommended for use with this project: [Python 3 Installation & Setup Guide](https://realpython.com/installing-python/)
 
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/Basic_Python.png)
 
