@@ -8,3 +8,5 @@ def test_increment():
 def test_decrement():
     assert inc_dec.decrement(3) == 2
     
+def test_bitcoindrpc():
+    assert inc_dec.bitcoindrpc()>0
