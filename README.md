@@ -20,6 +20,15 @@ This project is just a starting template for Python projects.
     python3 -m venv .venv
     source .venv/bin/activate
 
+## **NOTE** 
+> To make sure that Visual Studio Code is using the same environment space as determined by 'source .venv/bin/activate' simply close the ide instance and restart it again inside a terminal:
+
+    git clone https://github.com/perryatdmg/python_essentials.git your_project
+    cd your_project
+    python3 -m venv .venv
+    source .venv/bin/activate
+    code . 
+
 ## python_essentials with pytest
 > **python_essentials** can be used with the three most popular Python unit test case frameworks but this one is using pytest by default. Therefore, (once you have your environment setup) you should add pytest to your environment:
 
