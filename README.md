@@ -26,7 +26,7 @@ Here we have your typical Python source code, (as methods) to be unit tested:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/003.png)</br>
 ### In the console/terminal portion of the screen, the actual report from the pytest framework is supplied to the software developer, (in blue):
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/004.png)</br>
-### Here is a menu of operations that can be conducted easily using the Pytest extension for Visual Studio Code.
+### Here is a menu of operations that can be conducted easily using the Pytest extension for Visual Studio Code. Notice that the test case causing the issue was mistaken in the value expected from our Python code, (aka. a value of 4 when it should be 2).
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/007.png)</br>
 ### Further, the editor portion is now showing no errors:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/008.png)</br>
