@@ -30,9 +30,9 @@ This project is just a starting template for Python projects.
     code . 
 
 ## python_essentials with pytest
-> **python_essentials** can be used with the three most popular Python unit test case frameworks but this one is using pytest by default. Therefore, (once you have your environment setup) you should add pytest to your environment:
+> **python_essentials** can be used with the three most popular Python unit test case frameworks but this one is using pytest by default. Therefore, (once you have your environment setup) you should add pytest to your environment. Also for the purposes of this particular project the matplotlib and numpy are also used:
 
-    pip install -U pytest
+    pip install -U pytest matplotlib numpy 
 
 
 ## Why use an IDE?
