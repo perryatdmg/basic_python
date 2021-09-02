@@ -16,11 +16,11 @@ This project is just a starting template for Python projects.
 
 Here we have a typical Python methods to be unit tested:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/000.png)</br>
-Here we have at least one unit test per method:
+### Here we have at least one unit test per method:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/007.png)</br>
-In this case a unit test has indicated that either the method is not functioning as expected, (or perhaps the test case is not correct):
+### In this case a unit test has indicated that either the method is not functioning as expected, (or perhaps the test case is not correct):
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/001.png)</br>
-The benefits of using an IDE such as Visual Studio Code are that, (the trained eye) can quickly see which unit tests are reporting a pass, (in green) and unit tests are indicating an issue, (in red):
+### The benefits of using an IDE such as Visual Studio Code are that, (the trained eye) can quickly see which unit tests are reporting a pass, (in green) and unit tests are indicating an issue, (in red):
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/002.png)</br>
 Additionally, the editor portion shows the unit test case, (that requires attention) with an additional "red line":
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/003.png)</br>
