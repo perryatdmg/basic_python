@@ -28,8 +28,9 @@ Here we have your typical Python source code, (as methods) to be unit tested:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/004.png)</br>
 ### In this case the unit test was incorrect, but as soon as the test was corrected, the "red line" is removed, (by the Pytest extension for Visual Studio Code):
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/007.png)</br>
-### Further, the console report is not reporting no errors:
+### Further, the editor portion is now showing no errors:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/008.png)</br>
+### Further, the console report is now reporting no errors:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/009.png)</br>
 ### With the IDE we can set breakpoints and catch the code at the precise line of source requiring our attention:
 ![pytest](https://github.com/perryatdmg/basic_python/blob/main/etc/img/010.png)</br>
